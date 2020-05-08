@@ -1,4 +1,6 @@
-# React Express Starter Pack
+# React task input to mongodb
+
+-- put your MongoURI in config
 
 > Create full stack apps with React and Express. Run your client and server with a single command. 
 
